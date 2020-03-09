@@ -14,6 +14,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun setHello(){
-        tvHello.text = "Hello World!"
+        tvHello.text = "First Tag!"
     }
 }
